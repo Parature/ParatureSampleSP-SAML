@@ -121,7 +121,6 @@
     <Content Include="Microsoft-Contribution-License-Agreement.docx" />
     <Content Include="Microsoft-Contribution-License-Agreement.pdf" />
     <Content Include="CONTRIBUTING.md" />
-    <None Include="README.md" />
     <Content Include="LICENSE.txt" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
